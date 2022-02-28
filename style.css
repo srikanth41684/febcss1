@@ -1,0 +1,38 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: coral;
+    font-style: italic;
+}
+
+li{
+    color: brown;
+}
+
+.third-line1{
+    text-decoration: line-through;
+}
+
+.third-line2{
+    background-color: yellow;
+}
+
+.fourth-line{
+    font-style: italic;
+}
+
+.speces{
+    letter-spacing: 5px;
+}
+
+p{
+    color: darkred;
+}
+
+.last{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+}
